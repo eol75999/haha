@@ -1,1 +1,5 @@
-printf("haha");
+#include <stdio.h>
+void main(void ){
+	
+	printf("haha");
+}
